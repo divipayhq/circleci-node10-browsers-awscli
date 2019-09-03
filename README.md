@@ -1,10 +1,10 @@
-# circleci-node7-browsers-awscli
-A nodejs 7.10 image with AWS CLI built off CircleCIs official image.
+# circleci-node10-browsers-awscli
+A nodejs 10 image with AWS CLI built off CircleCIs official image.
 
-The image is [hosted on Docker Hub](https://hub.docker.com/r/mattjegan/circleci-node7-browsers-awscli/).
+The image is [hosted on Docker Hub](https://hub.docker.com/r/martin48/circleci-node10-browsers-awscli/).
 
 ## Installation
 
 ```
-docker pull mattjegan/circleci-node7-browsers-awscli
+docker pull martin48/circleci-node10-browsers-awscli
 ```
